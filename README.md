@@ -11,7 +11,7 @@ I'm a backend developer and data architect based in Wuppertal, Germany, currentl
 
 ## 🚀 Featured Project
 
-### [Easy LCA Calculator (LCA_BackEnd)](https://github.com/Mohsen9374/LCA_BackEnd)
+### [LCA Tool](https://github.com/Mohsen9374/LCA-Tool)
 An automated Life Cycle Assessment (LCA) tool that calculates product CO₂ emissions using ELCD 3.2 data — built as an academic project at the University of Wuppertal, with a Node.js backend and a focus on database design and API architecture.
 
 ## 📫 Connect With Me
